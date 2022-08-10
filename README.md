@@ -1,7 +1,7 @@
 # Skligga Hack
 
 ## About
-
+and this is skidded by me more features coming soon!NIO!KJB
 Read more about this client at [here](https://docs.google.com/document/d/1YmSodILxRPrnxpo692UZQwUI40zGr39NMjqUZmA6UEA).
 
 ## Setup
