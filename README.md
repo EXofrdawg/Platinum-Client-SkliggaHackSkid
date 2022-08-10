@@ -11,3 +11,7 @@ Use IntelliJ as your IDE. The building process should start automatically. Read 
 ## License
 
 This project is licensed under the MIT License.
+
+1.18.2
+optifabric crashes the client use sodium instead 
+and this is skidded by me more features coming soon!NIO!KJB
